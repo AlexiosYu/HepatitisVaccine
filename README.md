@@ -109,7 +109,7 @@ This folder contains the supplementary output datasets:
   coverage for 2010–2022.
 
 - **Supplementary Dataset 2: `dropout_estimations.xlsx`**  
-  Contains dropout rate estimates (HEP1 to HEP3) at national, ADM1, and
+  Contains dropout rate estimates absolute dropout rate (HEP1-HEP3) and relative dropout rate(HEP1-HEP3)/HEP1 at national, ADM1, and
   ADM2 levels from 2010–2022.
 
 - **Supplementary Dataset 3: `predict_to_2030.xlsx`**  
