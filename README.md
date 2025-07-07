@@ -108,7 +108,7 @@ This folder contains the supplementary output datasets:
   Contains ADM0(Nation), ADM1(Province/State), and ADM2(City/County)-level estimates of HEP1 and HEP3
   coverage for 2010–2022.
 
-- **Supplementary Dataset 2: `dropout_estimations/`**  
+- **Supplementary Dataset 2: `dropout_estimations.xlsx`**  
   Contains dropout rate estimates (HEP1 to HEP3) at national, ADM1, and
   ADM2 levels from 2010–2022.
 
