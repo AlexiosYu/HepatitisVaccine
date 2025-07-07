@@ -105,7 +105,7 @@ results generation.
 This folder contains the supplementary output datasets:
 
 - **Supplementary Dataset 1: `hep_estimations.xlsx`**  
-  Contains ADM0, ADM1, and ADM2-level estimates of HEP1 and HEP3
+  Contains ADM0(Nation), ADM1(Province/State), and ADM2(City/County)-level estimates of HEP1 and HEP3
   coverage for 2010–2022.
 
 - **Supplementary Dataset 2: `dropout_estimations/`**  
