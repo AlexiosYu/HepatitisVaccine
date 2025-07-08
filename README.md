@@ -122,4 +122,4 @@ This folder contains the supplementary output datasets:
 
 Please cite appropriately if you use or refer to this project. For any
 questions or collaboration interests, feel free to open an issue or
-contact the maintainer.
+contact the maintainer/writer.
